@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## The purpose of this app is to pull videos from YouTube using an API.
 
-This app has been deployed on Heroko at https://git.heroku.com/react-reading-list-ba1.git.
+This app has been deployed on Heroko at https://git.heroku.com/react-video-wall-ba.git.
